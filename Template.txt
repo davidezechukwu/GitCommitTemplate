@@ -1,4 +1,4 @@
-[NAME]
+NAME: [Ticket Name or Title]
 
 WHY:
 [Cloning]
@@ -27,5 +27,5 @@ INFO:
 HELP: 
 1. Please delete the WHY: optiions which are not applicable. 
 2. Cut-and-paste in the URL of the Work item linked to this commit, as the [Url of Ticket] 
-3. Give a brief Summary or ideally the actual work item's name if available, as the [NAME]
-4. GitHub defaults PR names to [NAME] 
+3. Give a brief Summary or ideally the actual work item's name if available, as the [Ticket Name or Title]
+4. GitHub defaults PR names to NAME: [Ticket Name or Title]
